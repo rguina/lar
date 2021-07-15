@@ -1,0 +1,1 @@
+<h1>salut {{ $nom}} votre age est : <?php echo $age ?></h1>
